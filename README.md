@@ -1,4 +1,4 @@
-# Pools Admin Pane;
+# Pools Admin Panel
 Admin Panel
 
 # Author
